@@ -1,0 +1,9 @@
+Se propone otro ejercicio para practicar con GIT. 
+
+La propuesta es que crees una branch de este proyecto en tu repositorio local.
+Para evitar que coincida con la de otro alumno y que los contenidos se confundan, te propongo que uses un directorio de trabajo especifico con las iniciales de tu nombre y tu DNI. Por ejemplo en mi caso sería AFV11223344G. Luego pon los contenidos que quieras en el directorio, por ejemplo un documento AUTOR con tus datos principales.
+
+Todo esto no lo podrás hacer en el repositorio de pruebas pues todavía no tienes permisos, pero si que lo puedes hacer en tu repositorio clonado.
+
+Si quieres que el profesor lo vea tendrás que darle permisos como colabordor del proyecto.
+
